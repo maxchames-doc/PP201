@@ -1,3 +1,6 @@
+# Instalamos las librerías necesarias
+pip install numpy streamlit pandas matplotlib seaborn sqlite st_aggrid
+
 # Importamos las librerias necesarias
 pip install requirements.txt
 
