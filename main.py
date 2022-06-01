@@ -1,5 +1,4 @@
 # Importamos las librerias necesarias
-pip install requirements.txt
 
 from git import Object
 from numpy import int64
